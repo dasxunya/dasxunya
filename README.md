@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"
-                                  style="text-decoration: none;"> <img
+                                  style="text-decoration: none; color: inherit;"> <img
         src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40"
         height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"
                               style="text-decoration: none;"> <img
